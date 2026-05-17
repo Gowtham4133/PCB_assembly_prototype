@@ -1,0 +1,8 @@
+names:
+- C
+- L
+- R
+nc: 3
+test: C:\Users\ELCOT\AppData\Local\Programs\Python\Python310\cluade\dataset\test\images
+train: C:\Users\ELCOT\AppData\Local\Programs\Python\Python310\cluade\dataset\train\images
+val: C:\Users\ELCOT\AppData\Local\Programs\Python\Python310\cluade\dataset\valid\images
